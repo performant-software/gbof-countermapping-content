@@ -54,5 +54,8 @@
   "core_data": {
     "url": "https://app.coredata.cloud",
     "project_ids": [6]
+  },
+  "branding": {
+    "footer_login": true
   }
 }
